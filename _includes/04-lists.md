@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+:sparkles: #Here is a list of my favorite things:
+- Sushi
+- Mango 
+- Running
+- Sleeping
+- Learning git and github
